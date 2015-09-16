@@ -15,3 +15,4 @@
 * Nicole Forsgren - State of DevOps Report (November 2015)
 * Effective post-mortem and retrospecitves - panel discussion?
 * Starting a new position, what's it like, strategies for getting productive, etc. - Mark Cornick.
+* Hadrian Zbarcea - Complexity and Heterogeneous environments in DevOps 
